@@ -309,7 +309,7 @@ export default function MultiStepFormPopup({ isOpen, onClose }: MultiStepFormPop
                     <div
                         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
                         style={{
-                            backgroundImage: 'url(https://holidayscrowd-assets.imgix.net/24199c3b-aedc-4fde-a465-318d11ee57dd?auto=format%2Ccompress&w=1200&q=90&fm=webp)',
+                            backgroundImage: 'url(/hero-image.jpg)',
                         }}
                     />
 
