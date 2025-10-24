@@ -208,7 +208,7 @@ export default function FamousAttractionsSection() {
                     </h2>
                     <div className="max-w-4xl mx-auto">
                         <h3 className="text-xl md:text-2xl font-light text-gray-700 mb-4 leading-relaxed">
-                            Must-Visit Attractions That Make Bali Truly Magical
+                            Must-Visit Attractions That Make Vietnam Truly Magical
                         </h3>
                     </div>
                 </div>
