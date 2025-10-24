@@ -11,37 +11,37 @@ export default function FamousAttractionsSection() {
         {
             id: 1,
             name: 'Hanoi',
-            image: 'https://holidayscrowd-assets.imgix.net/29906751-7cc8-4dc0-96a2-672bb728d622?auto=format%2Ccompress&w=900&q=100&fm=webp'
+            image: '/attraction-img/vietnam-attractions-hanoi.webp'
         },
         {
             id: 2,
             name: 'Ninh Binh',
-            image: 'https://holidayscrowd-assets.imgix.net/29906751-7cc8-4dc0-96a2-672bb728d622?auto=format%2Ccompress&w=900&q=100&fm=webp'
+            image: '/attraction-img/vietnam-attractions-ninh-binh.webp'
         },
         {
             id: 3,
             name: 'Hoi An',
-            image: 'https://holidayscrowd-assets.imgix.net/29906751-7cc8-4dc0-96a2-672bb728d622?auto=format%2Ccompress&w=900&q=100&fm=webp'
+            image: '/attraction-img/vietnam-attractions-hoi-an.webp'
         },
         {
             id: 4,
             name: 'Golden Bridge',
-            image: 'https://holidayscrowd-assets.imgix.net/29906751-7cc8-4dc0-96a2-672bb728d622?auto=format%2Ccompress&w=900&q=100&fm=webp'
+            image: '/attraction-img/vietnam-attractions-golden-bridge.webp'
         },
         {
             id: 5,
             name: 'Hue City',
-            image: 'https://holidayscrowd-assets.imgix.net/29906751-7cc8-4dc0-96a2-672bb728d622?auto=format%2Ccompress&w=900&q=100&fm=webp'
+            image: '/attraction-img/vietnam-attractions-hue-city.webp'
         },
         {
             id: 6,
             name: 'Ha Long Bay',
-            image: 'https://holidayscrowd-assets.imgix.net/29906751-7cc8-4dc0-96a2-672bb728d622?auto=format%2Ccompress&w=900&q=100&fm=webp'
+            image: '/attraction-img/vietnam-attractions-ha-long-bay.webp'
         },
         {
             id: 7,
             name: 'Dragon Bridge',
-            image: 'https://holidayscrowd-assets.imgix.net/29906751-7cc8-4dc0-96a2-672bb728d622?auto=format%2Ccompress&w=900&q=100&fm=webp'
+            image: '/attraction-img/vietnam-attractions-dragon-bridge.webp'
         },
     ];
 
